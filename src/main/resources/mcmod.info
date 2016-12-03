@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betterwithadditions",
+  "name": "Better With Additions",
+  "description": "An expansion for Better With Additions. After all, you have to defend yourself and survive before you can bathe the world in lava.",
+  "version": "1.10.2-PREALPHA",
+  "mcversion": "1.10.2",
+  "url": "https://github.com/T10a/betterwithadditions",
+  "updateUrl": "",
+  "authorList": ["T-10a"],
+  "credits": "Beetoguy, for creating Better With Mods. You can see his credits there.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
